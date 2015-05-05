@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/chenyikui/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/FunnyRun/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-2601139fc07695591ac68271ecf05c1013af9365.jar" />
+    </item>
+    <item
+        jar="/home/chenyikui/AndroidstudioProjects/FunnyRun/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/FunnyRun/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-913fc66fb5fb73e896890e19808625c64514202c.jar" />
+    </item>
+    <item
+        jar="/home/chenyikui/AndroidstudioProjects/FunnyRun/app/libs/weibosdkcore.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bd767db6c90e98697ee1ca76372b806828c6ff50">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/FunnyRun/app/build/intermediates/pre-dexed/debug/weibosdkcore-0d7b011d1ed9b016207e6254c3eebeb03afa9392.jar" />
+    </item>
+    <item
+        jar="/home/chenyikui/AndroidstudioProjects/FunnyRun/app/libs/galaxy_mini.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="58de9ecfba229dbb2c3eb3f45dbe284ba58100ea">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/FunnyRun/app/build/intermediates/pre-dexed/debug/galaxy_mini-b214fbe44eca8f2028dc3d6db90ce714c708ccb7.jar" />
+    </item>
+    <item
+        jar="/home/chenyikui/AndroidstudioProjects/FunnyRun/app/libs/BaiduLBS_Android.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="868c060abfa9778e598e631f93f94037edbe8996">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/FunnyRun/app/build/intermediates/pre-dexed/debug/BaiduLBS_Android-a9d72ddd335de007b8686ec4ed1caafa50bc4dd1.jar" />
+    </item>
+    <item
+        jar="/home/chenyikui/AndroidstudioProjects/FunnyRun/app/libs/mta-sdk-1.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1d1a215c3acd13ef011b8391cab495f7760c2a1d">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/FunnyRun/app/build/intermediates/pre-dexed/debug/mta-sdk-1.0.0-fa0dd17ca82ec66626494f34e8e8838216e1cd3f.jar" />
+    </item>
+    <item
+        jar="/home/chenyikui/AndroidstudioProjects/FunnyRun/app/libs/BmobSDK_V3.3.3_0211.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d0fc0387faf97fe15ccb671dc20257f5e6c7e0ed">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/FunnyRun/app/build/intermediates/pre-dexed/debug/BmobSDK_V3.3.3_0211-f4946901c2ff81f8a3937224945d7ecad5df20d0.jar" />
+    </item>
+    <item
+        jar="/home/chenyikui/AndroidstudioProjects/FunnyRun/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/FunnyRun/app/build/intermediates/pre-dexed/debug/classes-dcdbf31b3bd7bd947d8525ae5e11b65e93e5515c.jar" />
+    </item>
+    <item
+        jar="/home/chenyikui/AndroidstudioProjects/FunnyRun/app/libs/android_api_1.1_forsdk.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="610ab8a4952cfec5cc008a697790e21dec7b8d3a">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/FunnyRun/app/build/intermediates/pre-dexed/debug/android_api_1.1_forsdk-6d03197fe4863b4504fd1326b04f3be66db6d170.jar" />
+    </item>
+    <item
+        jar="/home/chenyikui/AndroidstudioProjects/FunnyRun/app/libs/open_sdk.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73915005d14af2994f235034b9f9832d666a6ec9">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/FunnyRun/app/build/intermediates/pre-dexed/debug/open_sdk-21cb5604370314c4624db3354e2563ea383a4770.jar" />
+    </item>
+    <item
+        jar="/home/chenyikui/AndroidstudioProjects/FunnyRun/app/libs/BmobPush_V0.5beta_1027.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a0a589bc7808d2a0c8b33edfc66a737ec3f57494">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/FunnyRun/app/build/intermediates/pre-dexed/debug/BmobPush_V0.5beta_1027-8dfab6e436f4b2014000d3892b0ee77a459ffdbf.jar" />
+    </item>
+    <item
+        jar="/home/chenyikui/AndroidstudioProjects/FunnyRun/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/FunnyRun/app/build/intermediates/pre-dexed/debug/classes-2a6a1dea05d0c4d9123318da95f8321e1a5ee1a1.jar" />
+    </item>
+
+</items>

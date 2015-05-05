@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FunnyRun</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="level">
+        <item>难度 1</item>
+        <item>难度 2</item>
+        <item>难度 3</item>
+        <item>难度 4</item>
+        <item>难度 5</item>
+        <item>难度 6</item>
+    </string-array>
+
+    <integer-array name="time">
+        <item>270000</item>
+        <item>220000</item>
+        <item>205000</item>
+    </integer-array>
+    
+    <integer-array name="distance">
+        <item>800</item>
+        <item>1000</item>
+    </integer-array>
+
+</resources>

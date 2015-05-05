@@ -1,0 +1,17 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceLarge"/>
+    <ListView 
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">        
+    </ListView>
+</LinearLayout><!-- From: file:/home/chenyikui/AndroidstudioProjects/FunnyRun/app/src/main/res/layout/activity_main.xml -->
